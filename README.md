@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Tuan
 
 ## 🎮 About Me
-Full name is Mai Anh Tuấn.    
+Full name is Mai Anh Tuấn.  
 I am a game developer.   
+I had studied for 2 years at VTC Academy. I have made at least 4 games in past 1 years.  
 Gaming is more than just my hobby. Beside that, I’m also passionate in making them.  
 As a dedicated gaming and fan of many game influencers, I understand what the audience want and the rapid change in game trends.  
-
-![me](images/20154.jpg)
 
 ---
 

@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Tuan
 
 ## 🎮 About Me
-Full name is Mai Anh Tuấn.  
-I am a game developer.  
-Gaming is more than just my hobby. Beside that, I’m also passionate in making them.
-As a dedicated gaming and fan of many game influencers, I understand what the audience want and the rapid change in game trends.
+Full name is Mai Anh Tuấn.    
+I am a game developer.   
+Gaming is more than just my hobby. Beside that, I’m also passionate in making them.  
+As a dedicated gaming and fan of many game influencers, I understand what the audience want and the rapid change in game trends.  
 
 ---
 
@@ -44,11 +44,19 @@ As a dedicated gaming and fan of many game influencers, I understand what the au
 - Players control a character to overcome obstacles, avoid guards, eat food
 
 🔗 GitHub: [(link)](https://github.com/Tuan-Git-Hub/VTCA_Final_Project)  
-🔗 Itch.io: [(link)](https://tuan-m.itch.io/starvation)
+🔗 Itch.io: [(link)](https://tuan-m.itch.io/starvation)  
+
+*You can see more game projects I've worked on here: [(link)](https://tuan-m.itch.io/)*  
 
 ---
 
-*You can see more game projects I've worked on here: [(link)](https://tuan-m.itch.io/)*  
+## 👨‍💻 Conclusion
+
+- I am an experienced in game development and I am also willing to adapt to new trends and changes in gaming industry
+- I am committed to finishing projects that I or my team started on time and at high quality. I am passionate in making games and I will do my best to show my passion
+- Teamwork makes dreams work. I will do my best to co-operate with my teammate and provide as much of contribution as I can to successfully develop and publish the team’s big project, together
+
+---
 
 ## 📫 Contact
 - GitHub: https://github.com/Tuan-Git-Hub

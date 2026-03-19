@@ -6,6 +6,8 @@ I am a game developer.
 Gaming is more than just my hobby. Beside that, I’m also passionate in making them.  
 As a dedicated gaming and fan of many game influencers, I understand what the audience want and the rapid change in game trends.  
 
+![me](images/20154.jpg)
+
 ---
 
 ## 🛠 Skills
